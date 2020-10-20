@@ -1,0 +1,3 @@
+[submodule "projects/06/assembler"]
+	path = projects/06/assembler
+	url = https://github.com/TaHUoP/hack-assembler.git
