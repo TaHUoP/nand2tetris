@@ -1,3 +1,6 @@
 [submodule "projects/06/assembler"]
 	path = projects/06/assembler
 	url = https://github.com/TaHUoP/hack-assembler.git
+[submodule "projects/07/vm"]
+	path = projects/07/vm
+	url = https://github.com/TaHUoP/jack-vm.git
