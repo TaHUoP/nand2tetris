@@ -4,3 +4,6 @@
 [submodule "projects/07/vm"]
 	path = projects/07/vm
 	url = https://github.com/TaHUoP/jack-vm.git
+[submodule "projects/09/compiler"]
+	path = projects/09/compiler
+	url = https://github.com/TaHUoP/jack-compiler.git
